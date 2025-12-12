@@ -8,10 +8,13 @@
 
 ---
 
-**🎯 Currently focused on:** front-end and full-stack projects.
-**🌱 Learning:** React, Node.js, MySQL, PHP, Laravel, Vue.js.
-**💬 Ask me about:** React, Vue.js, GSAP.
-**⚡ Fun fact:** I enjoy experimenting with CSS animations and interactive UIs ✨
+* 🔭 I’m currently working on front-end and full-stack projects
+* 🌱 I’m learning: React, Node.js, MySQL, PHP, Laravel, Vue.js
+* 💬 Ask me about: React, Vue.js, GSAP
+* 📫 How to reach me: [azmiragrn@gmail.com](mailto:azmiragrn@gmail.com)
+* 👨‍💻 All of my projects are available at: [azmirakhatun.top](https://azmirakhatun.top)
+* 📄 Know about my experiences: [Google Drive](https://drive.google.com/drive/my-drive)
+* ⚡ Fun fact: I enjoy experimenting with CSS animations and interactive UIs
 
 ---
 
@@ -22,7 +25,7 @@
       <a href="https://github.com/azmira-khatun" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" width="35" alt="GitHub" />
       </a>
-      <a href="https://www.linkedin.com/in/[আপনার LinkedIn ইউজারনেম]" target="_blank">
+      <a href="https://www.linkedin.com/in/[আপনার-LinkedIn-ইউজারনেম]" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn" />
       </a>
       <a href="mailto:azmiragrn@gmail.com">
@@ -46,13 +49,7 @@
 ## 🛠️ Languages and Tools:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,react,vue,git,postman" width="450" alt="Skills Icons" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsjerryokolo/free-illustrations/main/programming-illustrations/programmer-at-desk.png" width="300" alt="Programmer at Desk Illustration" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,react,vue,git,postman,mysql,nodejs" width="500" alt="Skills Icons" />
 </p>
 
 ---
