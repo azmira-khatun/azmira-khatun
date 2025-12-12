@@ -54,6 +54,14 @@
 
 ---
 
+### 🌱 Currently Learning
+
+- Advanced React Hooks & Context API  
+- Node.js & Express for backend APIs  
+- Animations with GSAP  
+
+---
+
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
@@ -68,11 +76,31 @@
 
 ## 👩‍💻 Featured Projects
 
-### 1️⃣ Project Name
-[Project Link](#) | *Short description of the project and technologies used.*
+### 1️⃣ [Portfolio Website](https://azmirakhatun.top)
+*React, CSS, GSAP | Personal portfolio showcasing projects and skills.*
 
-### 2️⃣ Project Name
-[Project Link](#) | *Short description of the project and technologies used.*
+### 2️⃣ [Event Management System](#)
+*Laravel, Vue.js, MySQL | Full-stack project for managing events, attendees, and tickets.*
+
+### 3️⃣ [Project Name](#)
+*Short description with technologies used.*
+
+---
+
+### 🎯 Skills & Badges
+
+<p align="center">
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</p>
 
 ---
 
