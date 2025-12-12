@@ -17,28 +17,25 @@
 
       ### 🌍 Connect with me:
 
-      <a href="https://github.com/azmira-khatun" target="_blank">
+      <a href="https://github.com/YOUR_GITHUB" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
       </a>
 
-      <a href="https://www.linkedin.com/in/ajmirakhatun33" target="_blank">
+      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
       </a>
 
-      <a href="mailto:azmiragrn@gmail.com">
+      <a href="mailto:YOUR_EMAIL@gmail.com">
         <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" />
       </a>
 
     </td>
 
     <td width="50%" align="right">
-
-<img src="https://raw.githubusercontent.com/azizulhakim/nice-images/main/coder-professional.png" width="320"/>
-
+      <img src="https://raw.githubusercontent.com/itsjerryokolo/free-illustrations/main/programming-illustrations/working-at-desk.png" width="350" />
     </td>
   </tr>
 </table>
-
 
 
 
