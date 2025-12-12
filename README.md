@@ -46,7 +46,7 @@
 
 ---
 
-## 🛠️ Languages and Tools:
+<h2>🛠️ Languages and Tools:</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,react,vue,git,postman,mysql,nodejs" width="500" alt="Skills Icons" />
