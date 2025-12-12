@@ -10,32 +10,36 @@
 📄 Know about my experiences: [Google Drive](https://drive.google.com/drive/my-drive)  
 ⚡ Fun fact: I enjoy experimenting with CSS animations and interactive UIs
 
----
 <table>
   <tr>
+    <!-- LEFT SIDE -->
     <td width="50%" valign="top">
 
-      ### 🌍 Connect with me:
-
-      <a href="https://github.com/YOUR_GITHUB" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+      ## 🌍 Connect with me  
+      
+      <a href="https://github.com/azmira-khatun" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-azmira--khatun-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
+      <br/>
 
-      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+      <a href="https://azmirakhatun.top/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
       </a>
+      <br/>
 
-      <a href="mailto:YOUR_EMAIL@gmail.com">
-        <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" />
+      <a href="mailto:azmiragrn@gmail.com">
+        <img src="https://img.shields.io/badge/Email-azmiragrn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
 
     </td>
 
+    <!-- RIGHT SIDE -->
     <td width="50%" align="right">
-      <img src="https://raw.githubusercontent.com/itsjerryokolo/free-illustrations/main/programming-illustrations/working-at-desk.png" width="350" />
+      <img src="https://raw.githubusercontent.com/itsjerryokolo/free-illustrations/main/programming-illustrations/working-at-desk.png" width="330" />
     </td>
   </tr>
 </table>
+
 
 
 
@@ -103,15 +107,7 @@
 
 
 
----
 
-## 🌏 Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-azmira--khatun-181717?logo=github)](https://github.com/azmira-khatun)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=google-chrome)](https://azmirakhatun.top/)  
-[![Email](https://img.shields.io/badge/Email-azmiragrn@gmail.com-red?logo=gmail)](mailto:azmiragrn@gmail.com)  
-
----
 
 ## 📈 Visitors Count
 
