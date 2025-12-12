@@ -11,20 +11,29 @@
 ⚡ Fun fact: I enjoy experimenting with CSS animations and interactive UIs
 
 ---
+## 🛠️ Skills (Logo Style)
 
-## 🛠️ Skills & Tools
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&style=for-the-badge) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge) 
-![Laravel](https://img.shields.io/badge/Laravel-F05032?logo=laravel&style=for-the-badge) 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&style=for-the-badge) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&style=for-the-badge) 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" title="Laravel"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" title="Vue.js"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" title="Postman"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+
+</div>
+
 
 ## 📊 GitHub Stats
 
