@@ -25,7 +25,7 @@
       <a href="https://github.com/azmira-khatun" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" width="35" alt="GitHub" />
       </a>
-      <a href="https://www.linkedin.com/in/azmirakhatun33" target="_blank">
+      <a href="https://www.linkedin.com/in/[আপনার-LinkedIn-ইউজারনেম]" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn" />
       </a>
       <a href="mailto:azmiragrn@gmail.com">
