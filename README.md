@@ -11,17 +11,34 @@
 ⚡ Fun fact: I enjoy experimenting with CSS animations and interactive UIs
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="coding animation" width="300"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<p align="center">
-  🌏 <strong>Connect with me:</strong>
-  <a href="https://github.com/YOUR_GITHUB" target="_blank">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL@gmail.com">Gmail</a> •
-  <a href="https://your-portfolio-site.com" target="_blank">Portfolio</a>
-</p>
+      ### 🌍 Connect with me:
+
+      <a href="https://github.com/azmira-khatun" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+      </a>
+
+      <a href="https://www.linkedin.com/in/ajmirakhatun33" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+      </a>
+
+      <a href="mailto:azmiragrn@gmail.com">
+        <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" />
+      </a>
+
+    </td>
+
+    <td width="50%" align="right">
+
+<img src="https://raw.githubusercontent.com/azizulhakim/nice-images/main/coder-professional.png" width="320"/>
+
+    </td>
+  </tr>
+</table>
+
 
 
 
