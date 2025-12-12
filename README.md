@@ -47,7 +47,7 @@
 ### 2️⃣ Project Name
 [Project Link](#)  
 
-> (আপনি চাইলে এখানে আপনার প্রকৃত project URLs replace করতে পারবেন, এবং screenshots image link দিতে পারবেন)
+
 
 ---
 
