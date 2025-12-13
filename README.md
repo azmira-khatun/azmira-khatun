@@ -13,8 +13,8 @@
 ---
 
 - 🔭 I’m currently working on front-end and full-stack projects  
-- 🌱 I’m learning: React, Node.js, MySQL, PHP, Laravel, Vue.js  
-- 💬 Ask me about: React, Vue.js, GSAP  
+- 🌱 I’m learning: React, JavaScript, MySQL, PHP, Laravel, Vue.js  
+- 💬 Ask me about: React, Vue.js, Laravel,JavaScript  
 - 📫 How to reach me: **azmiragrn@gmail.com**  
 - 👨‍💻 All of my projects are available at: **https://azmirakhatun.top**  
 - 📄 Know about my experiences: **Google Drive**  
@@ -26,13 +26,13 @@
 
 <p align="center">
   <a href="https://github.com/azmira-khatun">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/azmirakhatun33">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:azmiragrn@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -73,13 +73,13 @@
 
 ## 👩‍💻 Featured Projects
 
-### 🔹 POS(Point Of Sell)
+### 🔹 POS (Point Of Sell)
 🔗 Project Link  
-*Laravel,MySQL,PostMan.*
+*Laravel, MySQL, Postman.*
 
-### 🔹 Event ManageMent System
+### 🔹 Event Management System
 🔗 Project Link  
-*Php,MySQL.*
+*PHP, MySQL.*
 
 ---
 
