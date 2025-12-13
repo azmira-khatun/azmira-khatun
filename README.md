@@ -73,13 +73,13 @@
 
 ## 👩‍💻 Featured Projects
 
-### 🔹 Project One
+### 🔹 POS(Point Of Sell)
 🔗 Project Link  
-*Short description of the project and technologies used.*
+*Laravel,MySQL,PostMan.*
 
-### 🔹 Project Two
+### 🔹 Event ManageMent System
 🔗 Project Link  
-*Short description of the project and technologies used.*
+*Php,MySQL.*
 
 ---
 
