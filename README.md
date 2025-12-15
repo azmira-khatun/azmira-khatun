@@ -1,10 +1,11 @@
 <!-- 💬 Banner GIF with clickable video -->
 <p align="center">
   <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="https://raw.githubusercontent.com/azmira-khatun/azmira-khatun/main/banner.gif" 
+    <img src="https://raw.githubusercontent.com/azmira-khatun/azmira-khatun/main/your-video.gif" 
          alt="Watch My Video" width="100%" />
   </a>
 </p>
+
 
 <!-- 💬 Typing SVG Animation -->
 <div align="center">
