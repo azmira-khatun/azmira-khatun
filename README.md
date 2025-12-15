@@ -1,16 +1,16 @@
-<!-- 💬 Banner GIF -->
+<!-- 💬 Banner GIF with clickable video -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azmira-khatun/azmira-khatun/main/banner.gif" alt="Azmira Khatun Mukta" width="100%" />
+  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
+    <img src="https://raw.githubusercontent.com/azmira-khatun/azmira-khatun/main/banner.gif" 
+         alt="Watch My Video" width="100%" />
+  </a>
 </p>
 
 <!-- 💬 Typing SVG Animation -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=dda15e&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Azmira Khatun+Mukta;A+Passionate+Full-Stack+Web+Developer;Dedicated+to+continuous+learning+and+improvement.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=dda15e&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Azmira+Khatun+Mukta;A+Passionate+Full-Stack+Web+Developer;Dedicated+to+continuous+learning+and+improvement.)](https://git.io/typing-svg)
 </div>
 
----
 
 # 👋 Hi there, I'm Azmira Khatun
 
