@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Azmira+Khatun;A+Passionate+Web+Developer;Always+Learning+New+Things" />
+   <img src="https://raw.githubusercontent.com/azmira-khatun/azmira-khatun/main/developer-banner.gif" 
+          alt="Azmira Khatun - Web Developer Banner" width="100%" />
 </p>
 
 ---
