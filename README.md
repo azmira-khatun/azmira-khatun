@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Azmira%20Khatun%20👩%‍💻&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Azmira%20Khatun%20%F0%9F%91%A9%F0%9F%92%BB&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Azmira+Khatun;A+Passionate+Web+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Azmira+Khatun;A+Passionate+Web+Developer;Always+Learning+New+Things" />
 </div>
 
----
 
 # 👋 Hi there, I'm Azmira Khatun
 
